@@ -1,4 +1,4 @@
-# parking_makagment_system
+# parking_managment_system
 JAVA and NetBeans
 
 
